@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 .vscode
+=======
+.vscode
+*.txt
+>>>>>>> 15fa702 (Add useful examples)
