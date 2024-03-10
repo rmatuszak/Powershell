@@ -4,7 +4,7 @@ Repository holding a collection of Powershell scripts examples for learning. Clo
 ## Repository structure
 
 Repository contains currently two directories:
-1. 0_Basic - containing basic scripts for learning purposes,
+1. Learning - containing scripts for learning purposes,
 2. UsefulExamples - a collection of real-life examples to get and use in our everyday work
 
 ## Script convention
